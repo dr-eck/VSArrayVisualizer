@@ -1,0 +1,5 @@
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\CsTester\obj\Release\CsTester.csprojAssemblyReference.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\CsTester\obj\Release\CsTester.Form1.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\CsTester\obj\Release\CsTester.Properties.Resources.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\CsTester\obj\Release\CsTester.csproj.GenerateResource.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\CsTester\obj\Release\CsTester.csproj.CoreCompileInputs.cache

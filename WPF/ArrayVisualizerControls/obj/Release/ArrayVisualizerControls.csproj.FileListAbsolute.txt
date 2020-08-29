@@ -1,0 +1,7 @@
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\Array2D.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\Array3D.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\Array4D.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\Array1D.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\ArrayVisualizerControls_MarkupCompile.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizerControls\obj\Release\ArrayVisualizerControls_MarkupCompile.lref

@@ -1,0 +1,8 @@
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\ArrayVisualizer.csprojAssemblyReference.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\MainWindow.baml
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\MainWindow.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\App.g.cs
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\ArrayVisualizer_MarkupCompile.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\ArrayVisualizer.g.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\ArrayVisualizer.Properties.Resources.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WPF\ArrayVisualizer\obj\Release\ArrayVisualizer.csproj.GenerateResource.cache

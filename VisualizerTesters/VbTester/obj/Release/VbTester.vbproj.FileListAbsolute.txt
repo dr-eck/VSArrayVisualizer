@@ -1,0 +1,5 @@
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\VbTester\obj\Release\VbTester.vbprojAssemblyReference.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\VbTester\obj\Release\VbTester.Form1.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\VbTester\obj\Release\VbTester.Resources.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\VbTester\obj\Release\VbTester.vbproj.GenerateResource.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\VisualizerTesters\VbTester\obj\Release\VbTester.vbproj.CoreCompileInputs.cache

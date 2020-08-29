@@ -1,0 +1,5 @@
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizer\obj\Release\WinFormsArrayVisualizer.csprojAssemblyReference.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizer\obj\Release\WinFormsArrayVisualizer.MainForm.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizer\obj\Release\WinFormsArrayVisualizer.Properties.Resources.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizer\obj\Release\WinFormsArrayVisualizer.MainForm.en.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizer\obj\Release\WinFormsArrayVisualizer.csproj.GenerateResource.cache

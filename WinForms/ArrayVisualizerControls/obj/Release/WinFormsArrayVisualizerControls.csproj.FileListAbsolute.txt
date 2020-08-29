@@ -1,0 +1,3 @@
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizerControls\obj\Release\WinFormsArrayVisualizerControls.csprojAssemblyReference.cache
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizerControls\obj\Release\WinFormsArrayVisualizerControls.Properties.Resources.resources
+C:\Users\dr_ec\Source\Repos\ArrayVisualizer\sourceCode\WinForms\ArrayVisualizerControls\obj\Release\WinFormsArrayVisualizerControls.csproj.GenerateResource.cache
